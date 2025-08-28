@@ -4,11 +4,17 @@ My professional work: I'm currently working as a Software Tester in ControlExper
 - development support and resolving issues for our production
 - data analysis in the database if needed, mostly for issues or other tasks.
 - sometimes im doing small changes in our projects in C#, .Net
+- sometimes im making diagrams and documentation for processes
 My free time work: I'm Gothic mod developer - my project is called Gothic Reworked. It's extending type of mod for Gothic 1.
 Because of my project my skills contains also:
 - programming in Deadalus (C like language)
-- I have also experience with
-- 💞️ I’m looking to collaborate on C # / .NET development department
+- working with game engine
+- basics of C++ for union plugins
+- world creating
+- Basics of 2D and 3D graphics with Gimp and Blender
+- Creating sounds with Goldwave
+- Making documentations
+- Making simple tool apps with C#
 - 📫 How to reach me: iceman270193@gmail.com
 
 <!---
